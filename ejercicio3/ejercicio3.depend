@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1725240633 source:c:\users\nahue\desktop\mi carpeta - nahuel\nmv - personal\tup utn\programacion 2\practica\poo\poo_ejer3\ejercicio3\cuentabancaria.cpp
+	"cuentaBancaria.h"
+	<iostream>
+
+1725240556 c:\users\nahue\desktop\mi carpeta - nahuel\nmv - personal\tup utn\programacion 2\practica\poo\poo_ejer3\ejercicio3\cuentabancaria.h
+
+1725241437 source:c:\users\nahue\desktop\mi carpeta - nahuel\nmv - personal\tup utn\programacion 2\practica\poo\poo_ejer3\ejercicio3\main.cpp
+	<iostream>
+	"cuentaBancaria.h"
+
